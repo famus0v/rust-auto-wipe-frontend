@@ -24,6 +24,12 @@ const menuTabs = ref([
         name: 'Домашняя',
         icon: 'mdi-house',
         route: '/auth/login'
+    },
+    {
+        id: 2,
+        name: 'Профиль',
+        icon: 'mdi-house',
+        route: '/profile'
     }
 ]);
 </script>

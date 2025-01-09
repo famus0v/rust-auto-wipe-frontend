@@ -26,5 +26,4 @@ const menuTabs = ref([
         route: '/auth/login'
     }
 ]);
-
 </script>
